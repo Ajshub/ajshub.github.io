@@ -1,7 +1,11 @@
 /* Your Website Styles */
+body {
+	background: silver;
+	font-family: 'Averia Sans Libre', cursive;
+	text-decoration: none;
+}
 
-
-/* Show Grid */
-.showgrid {
-	background: url("../img/grid-bg.png") repeat-y;
+a {
+	text-decoration: none;
+	color: green
 }
